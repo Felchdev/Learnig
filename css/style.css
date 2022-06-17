@@ -1,6 +1,21 @@
 body {
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
-  color: aquamarine;
-  background-color: darkgreen;
+  color: black;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  /*background-color: darkgreen;*/
+}
+
+#container {
+  width: 70%;
+  padding: 1cm;
+  text-align: center;
+  border: 1px solid;
+  margin: 0 auto;
+}
+
+#container h1 {
+  font-size: 20px;
 }
